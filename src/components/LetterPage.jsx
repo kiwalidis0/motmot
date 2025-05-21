@@ -27,6 +27,7 @@ export default function LetterPage() {
         Happy Motmottt❤️
     </h1>
     
+    { /* 
     <div className="w-full max-w-md mb-10">
         <Swiper spaceBetween={20} slidesPerView={1} loop>
             <SwiperSlide>
@@ -40,6 +41,7 @@ export default function LetterPage() {
             </SwiperSlide>
         </Swiper>
     </div>
+    */}
 
     <p className="text-lg max-w-xl mb-8 text-white leading-relaxed">
         <Typewriter
