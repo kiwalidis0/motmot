@@ -12,7 +12,7 @@ export default function GreetingPage() {
       transition={{ duration: 1 }}
     >
       <h1 className="text-4xl font-bold mb-6 text-primary">
-        Happy Monthsary, Love! 💖
+        Happy Monthsary my Babii! 💖
       </h1>
 
       <button
