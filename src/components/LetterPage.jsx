@@ -59,7 +59,7 @@ export default function LetterPage() {
         />
     </p>
 
-    <p className="text-xl font-medium mt-8 animate-bounce">
+    <p className="text-xl font-semibold mt-8 animate-bounce">
      Jabi or McDo?
     </p>
     <div className="mt-4 flex gap-4">
